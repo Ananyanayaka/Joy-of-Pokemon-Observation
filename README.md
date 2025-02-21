@@ -20,6 +20,10 @@ Given several habitats, each with a total number of limbs **t** and several spec
 
 ### Output
 
+
+![image](https://github.com/user-attachments/assets/8b7868fc-d454-481b-a1dc-7cc9e5b63d1b)
+
+
 For each habitat, output the number of ways to form the total number of limbs using the available species.
 
 Here's the `README.md` file based on the provided instructions:
