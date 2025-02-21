@@ -118,6 +118,10 @@ The program uses **XXX MB** of memory during execution.
 
 ## Conclusion
 
+
+![image](https://github.com/user-attachments/assets/223190a3-b691-4c71-8475-0afcbf93ad2d)
+
+
 This program is simple to compile and run, and it is optimized for standard input sizes. However, for larger data, running it locally in Visual Studio Code or another IDE is recommended for faster execution.
 
 ```
