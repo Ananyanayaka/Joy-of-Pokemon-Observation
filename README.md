@@ -1,7 +1,5 @@
 # Joy-of-Pokemon-Observation
 
-# Pokémon Limb Combinations
-
 ## Problem Overview
 
 The **Pokémon Conservation Society** is studying Pokémon species and their habitats around the globe. Each habitat contains a number of Pokémon species, and researchers know how many limbs each species has. The total number of limbs for a habitat is also known, but not the exact combination of species. The problem asks us to determine how many different ways the species' limb counts can sum up to the observed total number of limbs in each habitat.
